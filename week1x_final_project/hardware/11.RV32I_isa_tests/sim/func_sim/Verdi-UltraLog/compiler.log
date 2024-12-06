@@ -1,0 +1,38 @@
+*design* DebussyLib (btIdent Verdi_S-2021.09-SP2-9)
+Command arguments:
+    +define+verilog
+    -sv
+    -f run.f
+        ./sim_define.v
+        ../../testbench/isa_testbench.v
+        ../../../source/myCPU/rev01/datapath.sv
+        ../../../source/myCPU/rev01/maindec.sv
+        ../../../source/myCPU/rev01/branch_logic.sv
+        ../../../source/myCPU/rev01/aludec.sv
+        ../../../source/myCPU/rev01/alu.sv
+        ../../../source/myCPU/rev01/controller.sv
+        ../../../source/myCPU/rev01/riscvsingle.sv
+        ../../../source/myCPU/rev01/building_blocks/mux3.sv
+        ../../../source/myCPU/rev01/building_blocks/adder.sv
+        ../../../source/myCPU/rev01/building_blocks/mux2.sv
+        ../../../source/myCPU/rev01/building_blocks/extend.sv
+        ../../../source/myCPU/rev01/building_blocks/flopr.sv
+        ../../../source/myCPU/rev01/building_blocks/flopenr.sv
+        ../../../source/myCPU/rev01/building_blocks/be_logic.sv
+        ../../../source/myCPU/rev01/SMU_RV32I_System.v
+        ../../../source/myCPU/rev01/reg_file_async.v
+        ../../../source/myCPU/rev01/ASYNC_RAM_DP_WBE.v
+        ../../../source/myCPU/rev01/register_FD.sv
+        ../../../source/myCPU/rev01/register_DE.sv
+        ../../../source/myCPU/rev01/register_EM.sv
+        ../../../source/myCPU/rev01/register_MW.sv
+        ../../../source/myCPU/rev01/Hazard_unit.sv
+
+
+*Warning* symbol Btaken duplicated
+"../../../source/myCPU/rev01/riscvsingle.sv", 39: 
+Highest level modules:
+isa_testbench
+flopenr
+
+Total	0 error(s),   1 warning(s)

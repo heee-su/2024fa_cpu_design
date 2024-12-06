@@ -1,0 +1,3 @@
+Command Line: /tools/synopsys_2021/verdi/S-2021.09-SP2-9/platform/LINUXAMD64/bin/Novas -run.f -ssf wave.fsdb
+uname(Linux sse506-s2 4.18.0-553.22.1.el8_10.x86_64 #1 SMP Wed Sep 25 09:20:43 UTC 2024 x86_64)
+au time 350.012757 4.181214 3.533718 delta 357412864 357412864 total 902574080 902574080

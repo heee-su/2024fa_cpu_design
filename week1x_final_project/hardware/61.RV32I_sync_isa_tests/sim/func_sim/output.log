@@ -1,0 +1,684 @@
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         addi.mif in        226 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5110
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5110 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:56 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          add.mif in        467 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 9930
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9930 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:56 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         andi.mif in        182 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 4230
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 4230 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:56 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          and.mif in        487 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10330
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10330 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:57 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                        auipc.mif in         35 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 1290
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1290 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:57 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          beq.mif in        315 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 6890
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 6890 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:57 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          bge.mif in        351 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 7610
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 7610 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:57 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         bgeu.mif in        376 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 8110
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 8110 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:58 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          blt.mif in        315 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 6890
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 6890 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:58 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         bltu.mif in        340 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 7390
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 7390 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:58 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          bne.mif in        319 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 6970
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 6970 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:59 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          jal.mif in         31 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 1210
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1210 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:59 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         jalr.mif in        111 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 2810
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 2810 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:59 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                           lb.mif in        232 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5230
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5230 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:00:59 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:00 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          lbu.mif in        232 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5230
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5230 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:00 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                           lh.mif in        244 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5470
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5470 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:00 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          lhu.mif in        251 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5610
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5610 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:00 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          lui.mif in         37 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 1330
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1330 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:01 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                           lw.mif in        254 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5670
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5670 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:01 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          ori.mif in        189 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 4370
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 4370 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:01 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                           or.mif in        490 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10390
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10390 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:01 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                           sb.mif in        426 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 9110
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9110 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:02 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                           sh.mif in        480 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10190
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10190 ns
+CPU Time:      0.180 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:02 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                       simple.mif in         11 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                  810
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 810 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:02 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         slli.mif in        225 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5090
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5090 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:02 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          sll.mif in        495 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10490
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10490 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:03 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         slti.mif in        221 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5010
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5010 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:03 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                        sltiu.mif in        221 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5010
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5010 ns
+CPU Time:      0.160 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:03 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          slt.mif in        461 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 9810
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9810 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:04 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         sltu.mif in        461 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 9810
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9810 ns
+CPU Time:      0.180 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:04 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         srai.mif in        240 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5390
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5390 ns
+CPU Time:      0.180 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:04 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          sra.mif in        514 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10870
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10870 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:04 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         srli.mif in        234 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 5270
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5270 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:05 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          srl.mif in        508 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10750
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10750 ns
+CPU Time:      0.180 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:05 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          sub.mif in        459 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 9770
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9770 ns
+CPU Time:      0.180 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:05 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                           sw.mif in        486 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10310
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10310 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:06 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                         xori.mif in        191 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                 4410
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 4410 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:06 2024
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP2-9_Full64; Runtime version S-2021.09-SP2-9_Full64;  Dec  4 01:01 2024
+*Verdi* Loading libsscore_vcs202109.so
+FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+(C) 1996 - 2023 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'wave.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+MIF_HEX_FAIL
+[passed] -                          xor.mif in        489 simulation cycles
+$finish called from file "../../testbench/isa_testbench.v", line 86.
+$finish at simulation time                10370
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10370 ns
+CPU Time:      0.170 seconds;       Data structure size:   1.1Mb
+Wed Dec  4 01:01:06 2024

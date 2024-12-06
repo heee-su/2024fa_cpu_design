@@ -1,0 +1,54 @@
+version: (200506)
+
+available memory: 64M bytes
+used memory: 450560 bytes [need 440K bytes if disable swap]
+
+used block: 13 [memory(13) file(0)]
+                 [ 8K(7) 64K(6) { total 440K bytes } ]
+overhead: (9538) bytes for (13) blocks [Average: (733) bytes/block]
+
+write  => 0(times) 0K(bytes) [0K bytes to file]
+read   => 6(times) 120K(bytes) [21K bytes compressed data from file]
+access => 263174(times) 2073M(bytes)
+          [hit ratio: 99.9977%]
+
+time: write(0) read(0)  unit: second
+
+swap file directory: (/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/verdiLog)
+used swap file number: (7)
+
+
+
+swap file manager:
+arrSize: (256)
+idxCnt: (8)
+closeHead: (1)
+closeTail: (7)
+openCnt: (7)
+fid(7): fd(1073741829) fileName(/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/simv.daidir/kdb.elab++/work.lib++/be_logic.sv.tdc)
+	size(4281) lastModTime(1733152958) curModTime(1733152958)
+	mode(rb)	hot(0) cool(6) pos(0)
+fid(6): fd(1073741828) fileName(/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/simv.daidir/kdb.elab++/work.lib++/datapath.sv.tdc)
+	size(14309) lastModTime(1733152958) curModTime(1733152958)
+	mode(rb)	hot(7) cool(5) pos(0)
+fid(5): fd(1073741827) fileName(/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/simv.daidir/kdb.elab++/work.lib++/riscvsingle.sv.tdc)
+	size(7048) lastModTime(1733152958) curModTime(1733152958)
+	mode(rb)	hot(6) cool(4) pos(0)
+fid(4): fd(1073741826) fileName(/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/simv.daidir/kdb.elab++/work.lib++/SMU_RV32I_System.v.tdc)
+	size(7347) lastModTime(1733152958) curModTime(1733152958)
+	mode(rb)	hot(5) cool(3) pos(0)
+fid(3): fd(1073741825) fileName(/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/simv.daidir/kdb.elab++/work.lib++/c_tests_tb.v.tdc)
+	size(5118) lastModTime(1733152958) curModTime(1733152958)
+	mode(rb)	hot(4) cool(2) pos(0)
+fid(2): fd(29) fileName(/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/verdiLog/_swap_0001#-1463773439#3893540)
+	size(0) lastModTime(0) curModTime(1733411668)
+	mode(w+b)	hot(3) cool(1) pos(0)
+fid(1): fd(1073741824) fileName(/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/simv.daidir/kdb.elab++/work.lib++/tohost_csr.sv.tdc)
+	size(725) lastModTime(1733152958) curModTime(1733152958)
+	mode(rb)	hot(2) cool(0) pos(0)
+fid(0): fd(0) fileName(NULL)
+	mode(NULL)	hot(0) cool(0) pos(0)
+==================================================
+mySelf(0x1b75c5a0) pre(0x1a1e55b0) next((nil))
+version(200506)
+date(Mar 11 2023 02:27:03)

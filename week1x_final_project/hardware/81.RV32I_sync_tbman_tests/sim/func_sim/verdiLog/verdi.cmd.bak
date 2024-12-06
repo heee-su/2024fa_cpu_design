@@ -1,0 +1,9 @@
+verdiSetActWin -dock widgetDock_<Message>
+debImport "-run.f"
+wvCreateWindow
+wvOpenFile -win $_nWave2 \
+           {/home2/s2_student12/project/2024fa_cpu_design/week1x_final_project/hardware/81.RV32I_sync_tbman_tests/sim/func_sim/wava.fsdb}
+verdiWindowResize -win $_Verdi_1 "172" "19" "1028" "700"
+verdiWindowResize -win $_Verdi_1 "172" "19" "1028" "700"
+verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+debExit

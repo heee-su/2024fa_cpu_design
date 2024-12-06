@@ -1,0 +1,10 @@
+*design* DebussyLib (btIdent Verdi_S-2021.09-SP2-9)
+Command arguments:
+    +define+verilog
+    -run.f
+*Warning* Unknown argument -run.f
+
+
+*Error* no source file
+
+Total	1 error(s),   1 warning(s)
